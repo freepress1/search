@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Home",
+    "content": "Explore our cast, videos, schedule, and more.",
+    "url": "index.html"
+  },
+  {
+    "title": "About",
+    "content": "Learn more about our mission and the story behind this production.",
+    "url": "about.html"
+  },
+  {
+    "title": "Cast",
+    "content": "Details about our talented cast members and their roles.",
+    "url": "cast.html"
+  },
+  {
+    "title": "Videos",
+    "content": "Watch behind-the-scenes footage and exclusive interviews.",
+    "url": "videos.html"
+  },
+  {
+    "title": "Schedule",
+    "content": "Upcoming dates and times for performances and events.",
+    "url": "schedule.html"
+  },
+  {
+    "title": "Contact",
+    "content": "Reach out to us via email or social media.",
+    "url": "contact.html"
+  },
+  {
+    "title": "News",
+    "content": "Stay updated with the newest announcements and updates.",
+    "url": "news.html"
+  }
+]
